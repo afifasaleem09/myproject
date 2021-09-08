@@ -5,3 +5,5 @@ Categories
 Types
 Varity
 Shopping cart
+Check In
+Payment methods
