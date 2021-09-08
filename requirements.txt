@@ -1,0 +1,7 @@
+This is an online shopping app
+It contains
+List of products
+Categories
+Types
+Varity
+Shopping cart
